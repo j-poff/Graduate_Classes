@@ -1,4 +1,10 @@
-# Coding Classes I took as a Graduate Student at OSU
-ROB537 Learning-Based Control Class. Neural networks, reinforcement learning to control autonomous systems. Optimization algorithms.
+# Coding Classes I took as a Graduate Student
+Learning-Based Control. Neural networks, reinforcement learning to control autonomous systems. Optimization algorithms.
 
-CS 513 Machine Learning. Introduction to machine learning topics.
+Machine Learning. Introduction to machine learning topics.
+
+Python I, II.
+
+Geospatial Machine Learning
+
+Arduino Sensors
