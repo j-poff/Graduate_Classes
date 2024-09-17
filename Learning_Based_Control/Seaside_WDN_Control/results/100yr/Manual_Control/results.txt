@@ -1,0 +1,2 @@
+Performance before disaster: 860
+Performance with manual valve control, close edges: 817
